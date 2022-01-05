@@ -48,7 +48,17 @@ The first step is to controlling the robot there is some intially checking proce
 
 **robot_node**
 
-The robot_node.cpp has completed some task first move the robot in the enviorment and second chnages the velocity of robot the task is completed with the help of `CALLBACK`
+The robot_node.cpp has completed some task first move the robot in the enviorment and second chnages the velocity of robot.
+
+                                                        **FLOW CHART**
+
+![Screenshot from 2022-01-05 19-23-20](https://user-images.githubusercontent.com/91262613/148269028-c2a77c54-ad18-417a-a72b-9457e102ce5c.png)
+
+
+**server_node**
+The server node is used to increase,decrease and reset the robot position
+ ``
+
 
 
 
