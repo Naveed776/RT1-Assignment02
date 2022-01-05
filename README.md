@@ -50,17 +50,26 @@ The first step is to controlling the robot there is some intially checking proce
 
 The robot_node.cpp has completed some task first move the robot in the enviorment and second chnages the velocity of robot.
 
-                                                        **FLOW CHART**
+                                                       #FLOW CHART
 
 ![Screenshot from 2022-01-05 19-23-20](https://user-images.githubusercontent.com/91262613/148269028-c2a77c54-ad18-417a-a72b-9457e102ce5c.png)
 
 
-**server_node**
+**Server_node**
+
 The server node is used to increase,decrease and reset the robot position
- ``
 
+  - I is used for increase the robot speed
+  - D is used for decrease the robot speed
+  - r is used for reset the robot postion
 
+**Userinformation_node**
 
+The Userinformation node is get response from user and sent ot the server and chnage speed of the the robot
+
+# RQT_GRAPH!
+
+![Rqt_graph](https://user-images.githubusercontent.com/91262613/148270861-13d5619d-3970-433a-a320-777c0e694192.png)
 
 
 
