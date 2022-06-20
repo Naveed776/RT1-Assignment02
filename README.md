@@ -2,7 +2,7 @@
 The Assignment is given by Professor Carmine Department of robotics Engineering University of Genoa. 
 
 # Assignment Description :memo:
-The Assignment is based on ROS There is some specific task that completed in this assignment thatassignment is depend on robot. The robot move around a circuit. Here we can use ROS for controlling the robot have ability a laser scaneer and we can use some node to increase and decrease the speed of the robot and reset the position of robot this all above specific task is done  in C++
+The Assignment is based on ROS There is some specific task that completed in this assignment the assignment is depend on robot. The robot move around a circuit. Here we can use ROS for controlling the robot have ability a laser scaneer and we can use some node to increase and decrease the speed of the robot and reset the position of robot this all above specific task is done  in C++
 
 **How to Run Assignemnt** 
 
