@@ -71,6 +71,9 @@ The Userinformation node is get response from user and sent ot the server and ch
 
 ![Rqt_graph](https://user-images.githubusercontent.com/91262613/148270861-13d5619d-3970-433a-a320-777c0e694192.png)
 
+### conculsion
+
+The work overall satisfied me especially because this is the first real kind of project I've ever approached with ROS. I understood the potentional of this tool and what can be easily created with it. To conclude the communication of the nodes,
 
 ### possible improvements 
 
