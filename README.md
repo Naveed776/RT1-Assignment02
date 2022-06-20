@@ -72,4 +72,8 @@ The Userinformation node is get response from user and sent ot the server and ch
 ![Rqt_graph](https://user-images.githubusercontent.com/91262613/148270861-13d5619d-3970-433a-a320-777c0e694192.png)
 
 
+### possible improvements 
 
+First of all the algorithm managing the direction and speed of the robot can be improved because, as you can see when running, the robot has difficult when turning in the circuit.
+
+Second, the UI interface has simple outputs and visuals for the user. If the UI node had more aesthetic values it can be easier to use and appreciatable.
